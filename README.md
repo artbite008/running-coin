@@ -1,7 +1,7 @@
 # 项目概述
-这个项目可能是一个跑步打卡类的应用，包含后端服务和微信小程序等部分，用于记录跑步成就、投票、获取跑步币等功能。
+这是一个基于区块链的跑步打卡的应用，包含后端服务和微信小程序等部分，用于记录跑步成就、投票、获取跑步币等功能。
 # Project Overview
-This project could be a running check-in application that includes backend services and a WeChat Mini Program. Its features include recording running achievements, voting, earning running coins, and more.
+This project blockchain based running check-in application that includes backend services and a WeChat Mini Program. Its features include recording running achievements, voting, earning running coins, and more.
 # 主要功能模块
 # Main Functional Modules
 ## 后端服务
